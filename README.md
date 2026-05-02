@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет! Я Иван 👋
 
-<!--
-**OnuchinIvan/OnuchinIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий программист, ориентированный на Data Science и машинное обучение. На данный момент я совмещаю школьное обучение с активным изучением инструментов анализа данных на Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой технологический стек
+*   **Язык:** Python
+*   **Библиотеки:** Pandas, NumPy, SciKit-learn
+*   **Инструменты:** Obsidian (для системного ведения заметок и обучения), Git
+
+---
+
+### 🚀 Текущие цели
+*   Изучение основ Data Science и алгоритмов Machine Learning.
+*   Углубление знаний в работе с данными и предиктивным моделированием.
+*   Поиск и участие в интересных Open Source проектах для получения опыта.
+
+---
+
+### 🎨 Немного обо мне
+*   **Музыка:** Окончил музыкальную школу с красным дипломом. Этот опыт приучил меня к дисциплине и вниманию к деталям.
+*   **Увлечения:** В свободное время я занимаюсь фотографией и регулярно хожу в походы. Люблю сочетать активный отдых с поиском удачных кадров.
+
+---
+
+### 📫 Как со мной связаться
+*   **Telegram:** [@dkoityr1730](https://t.me/dkoityr1730)
+*   **Email:** [onuchivan10@mail.ru](mailto:onuchivan10@mail.ru)
+
+*Буду рад знакомству с другими разработчиками и совместной работе над учебными или прикладными задачами!*
